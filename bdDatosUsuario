@@ -1,0 +1,2 @@
+CREATE TABLE DatosUsuarios (iD INT PRIMARY KEY, Nombre VARCHAR(40), PrimerApellido VARCHAR(20), SegundoApellido VARCHAR(20), CiudadNatal VARCHAR(20), Genero VARCHAR(20) );
+
